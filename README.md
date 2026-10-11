@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About me
+## 👋 About me [[READ ME IS UNDER DEVELOPED]]
 
 Second-year ECE student at **SRM University AP**, graduating in **2028**.
 I like building things that blink, spin, fly, or at least try to. Embedded + hardware is my home base.
